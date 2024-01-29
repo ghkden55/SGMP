@@ -24,6 +24,34 @@ public class Student {
     private int m_score;
 
 
+    public int getSno() {
+        return sno;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public int getK_score() {
+        return k_score;
+    }
+
+    public int getE_score() {
+        return e_score;
+    }
+
+    public int getM_score() {
+        return m_score;
+    }
+
     public void setSno(int sno) {
         this.sno = sno;
     }
