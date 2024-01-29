@@ -8,7 +8,7 @@ public class DBcon {
 
     String url = "jdbc:mysql://127.0.0.1:3306/students";
     String user = "root";
-    String password = "2745";
+    String password = "1234";
 
     public Connection getConnection() {
 
